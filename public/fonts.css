@@ -1,7 +1,7 @@
-/* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
+/* https://github.com/ipython/xkcd-font */
 @font-face {
-  font-family: "Virgil";
-  src: url("FG_Virgil.woff2");
+  font-family: "xkcd-script";
+  src: url("xkcd-script.woff");
   font-display: swap;
 }
 

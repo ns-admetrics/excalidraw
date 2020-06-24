@@ -118,8 +118,8 @@ export const exportToSvg = (
   <defs>
     <style>
       @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/FG_Virgil.woff2");
+        font-family: "xkcd-font";
+        src: url("//xkcd-script.woff");
       }
       @font-face {
         font-family: "Cascadia";

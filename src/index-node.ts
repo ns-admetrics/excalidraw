@@ -49,12 +49,12 @@ const elements = [
     opacity: 100,
     seed: 1683771448,
     text: "test",
-    font: "20px Virgil",
+    font: "20px xkcd-script",
     baseline: 22,
   },
 ];
 
-registerFont("./public/FG_Virgil.ttf", { family: "Virgil" });
+registerFont("./public/xkcd-script.ttf", { family: "xkcd-script" });
 registerFont("./public/Cascadia.ttf", { family: "Cascadia" });
 
 const canvas = exportToCanvas(
